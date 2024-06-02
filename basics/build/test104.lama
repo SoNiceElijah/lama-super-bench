@@ -1,0 +1,8 @@
+public fun test104() {
+  var n = read ();
+  
+  for var i; i := 0, i<10, i := i + 1 do
+    write (i)
+  od   
+}
+test104()

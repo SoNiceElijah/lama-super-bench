@@ -1,0 +1,7 @@
+public fun test001() {
+  var x = read (), y = read (), z = x * y * 3;
+  
+  write (z)
+  
+}
+test001()

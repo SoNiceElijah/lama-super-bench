@@ -1,0 +1,14 @@
+public fun test021() {
+  var n, f;
+  
+  n := read ();
+  f := 1;
+  
+  for skip, n >= 1, n := n-1
+  do
+    f := f * n
+  od;
+  
+  write (f)
+}
+test021()

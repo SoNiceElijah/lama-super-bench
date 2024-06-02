@@ -1,0 +1,12 @@
+public fun test103() {
+  var x;
+  
+  do
+    var n = read ();
+    x := n
+  while n <= 0 od;
+  
+  write (x)
+  
+}
+test103()

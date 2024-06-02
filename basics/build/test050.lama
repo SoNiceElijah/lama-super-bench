@@ -1,0 +1,10 @@
+public fun test050() {
+  var n, x, y;
+  
+  n := read ();
+  x := [1];
+  y := [x, x];
+  y[1][0] := 2;
+  write (y[0][0])
+}
+test050()

@@ -1,0 +1,11 @@
+public fun test089() {
+  fun test (a, b, c) {
+    var x = a + b, y = b + c;
+    (var e = x + y;
+      e
+    )
+  }
+  
+  write (test (read (), read (), read ()))
+}
+test089()
