@@ -20,4 +20,4 @@ Specify `"<path to optimizer>"` in `build/build.sh`. Then run `build.sh` and `ru
 
 Directory `generated`
 
-Specify `"<path to optimizer>"` in `build/build.sh`. Then run `build.sh` and `run.sh`.  
+Specify `"<path to optimizer>"` in `lama/build.sh`. Then run `build.sh` and `run.sh`.  
